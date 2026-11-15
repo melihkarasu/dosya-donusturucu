@@ -1,6 +1,6 @@
 # Evrensel Dosya & Format Dönüştürücü (Standalone Edition)
 
-CleverUtils API ve tarayıcı içi motorla görsel (PNG, WEBP, JPG) ve yapısal veri (JSON, CSV, XML, MD) dönüştürücü.
+Görsel (PNG, WEBP, JPG) ve yapısal veri (JSON, CSV, XML, Markdown) dosyaları için çok formatlı dönüştürücü.
 
 - **Canlı Demo (GitHub Pages):** https://melihkarasu.github.io/dosya-donusturucu/
 - **Ana Proje (Monorepo):** [melihkarasu/VibeCodedApps](https://github.com/melihkarasu/VibeCodedApps)
